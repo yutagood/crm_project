@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'crm_db',  # phpMyAdminで作成したデータベース名
         'USER': 'root',  # phpMyAdminのユーザー名
-        'PASSWORD': 'your_password',  # phpMyAdminのパスワード
+        'PASSWORD': '',  # phpMyAdminのパスワード
         'HOST': 'localhost',
         'PORT': '3306',
     }
